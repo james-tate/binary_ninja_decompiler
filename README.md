@@ -1,5 +1,5 @@
 # Binary Ninja Decompiler
-Author: **Original: Stormshield** **Modified: James-Tate**
+Author: **Original: Stormshield//** **Modified: James-Tate**
 
 _The plugin offers a pseudo code (C like) view of the disassembly._
 
