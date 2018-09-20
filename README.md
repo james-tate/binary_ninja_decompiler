@@ -30,7 +30,8 @@ The following dependencies are required for this plugin:
  * Download and copy the following plugin to binary ninja plugin's directory (``~/.binaryninja/plugins/``)
 
 ## USE
- * 
+ 
+ * On Binary Ninja graph view, right click and choose 'Decompile Function with RetDec'
 
 ## License
 
